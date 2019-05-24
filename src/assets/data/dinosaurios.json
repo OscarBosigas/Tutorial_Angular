@@ -1,0 +1,16 @@
+{
+	"dinosaurios":[
+	{
+		"nombre":"Tiranosaurio Rex",
+		"descripcion":"El Tiranosaurio Rex es uno de los dinosaurios más estudiados y más reconocidos por la cultura popular. Su nombre viene del griego Tyranno, que significa literalmente tirano o malvado, que era  quien tenía poder absoluto y la palabra Saurus que significa lagarto, así que es un lagarto tirano al que además se le agrega el Rex, por lo que su nombre completo es el rey de los tiranos lagartos o depredadores, tanto por su tamaño como por su poder"
+	},
+	{
+		"nombre":"Velociraptor",
+		"descripcion":"Su nombre viene de una de sus principales características, Velociraptor significa en latín ‘ladrón veloz’, lo que nos habla de su increíble capacidad para correr.  Lo interesante es que corría en dos patas como algunos otros dinosaurios, es decir que era bípedo, tenía una cola muy larga y rígida y tres poderosas garras en sus patas, estas patas tenían huesos muy similares a los huesos de las aves que conocemos, además tenía una garra curva en cada pata."
+	},
+	{
+		"nombre":"Centrosaurus",
+		"descripcion":"El nombre del Centrosaurus significa “reptil de punta aguda o afilada” se llama así por la serie de cuernos que tenía.  El Centrosaurus  era un ceratopsiano y vivió en el Cretácico hace 75 millones de años en Norteamérica. El Centrosaurus medía aproximadamente 6 metros de largo y además tenía un cuerno sobre la nariz, que en un principio no fue descubierto hasta después, este cuerno tenía curvas diferentes dependiendo del espécimen"
+	}
+	]
+}
